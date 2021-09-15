@@ -17,6 +17,8 @@ public class ExpressionsAssignmentStatements {
 
         // Addition
         System.out.println(myInt0 + myInt1);
+        System.out.println(myDouble0 + myDouble1);
+        System.out.println(myInt1 + myDouble1);
 
         // Subtraction
         System.out.println(myInt0 - myInt1);
