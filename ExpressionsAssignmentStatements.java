@@ -3,9 +3,10 @@
 public class ExpressionsAssignmentStatements {
 
     public static void main(String[] args) {
-        // Declare an int variable named myInt0 and myInt1, assign them any value.
+        // Declare an integer variable named myInt0 and myInt1, assign them any value.
 
-        // Declare a int variable named myDouble0 and myDouble1, assign them any value.
+        // Declare an integer [error, should be double] variable named myDouble0 and
+        // myDouble1, assign them any value.
 
         /*
          * Write code that uses all five arithmetic operators on two int values, two
