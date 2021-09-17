@@ -5,7 +5,7 @@ public class ExpressionsAssignmentStatements {
     public static void main(String[] args) {
         // Declare an integer variable named myInt0 and myInt1, assign them any value.
 
-        // Declare an integer [error, should be double] variable named myDouble0 and
+        // Declare a double variable named myDouble0 and
         // myDouble1, assign them any value.
 
         /*
