@@ -34,7 +34,7 @@ public class ExpressionsAssignmentStatements {
 
         /*
          * Write a COMPOUND EXPRESSION that uses at least three unique arithmetic
-         * operators and one set of parenthesis. Use at least two different variables from above. 
+         * operators and two sets of parenthesis. Use at least two different variables from above. 
          * Print the value of that expression on the screen.
          */
 
